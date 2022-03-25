@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categoria">
+        <item>Perros</item>
+        <item>Gatos</item>
+        <item>Aves</item>
+    </string-array>
+
+    <string-array name="gatos">
+        <item>Egipcio</item>
+        <item>Abisinio</item>
+        <item>Burmes</item>
+        <item>Esfinge</item>
+        <item>Siberiano</item>
+        <item>Siames</item>
+        <item>Ocicat</item>
+        <item>Japones</item>
+        <item>Somali</item>
+        <item>Korata</item>
+    </string-array>
+
+    <string-array name="perros">
+        <item>Presa canario</item>
+        <item>Pastor aleman</item>
+        <item>Boston terrier</item>
+        <item>Husky siveriano</item>
+        <item>Golden retriever</item>
+        <item>Pitbull</item>
+        <item>Pug</item>
+        <item>Sabueso</item>
+        <item>Poodle</item>
+        <item>Rottweiler</item>
+    </string-array>
+
+    <string-array name="aves">
+        <item>Lechuza</item>
+        <item>Ganzo</item>
+        <item>Koel</item>
+        <item>Garza</item>
+        <item>Urraca</item>
+        <item>Golondrina</item>
+        <item>Canario</item>
+        <item>Frailecillo</item>
+        <item>Condor</item>
+        <item>Loro</item>
+    </string-array>
+</resources>
